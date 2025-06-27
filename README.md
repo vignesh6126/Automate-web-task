@@ -83,9 +83,3 @@ python automate_insta.py
 
 ---
 
-## 🧠 Credits
-
-Built by [Your Name]  
-Powered by: Selenium, WebDriver Manager
-
-MIT License
